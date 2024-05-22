@@ -58,8 +58,8 @@
         "editor.background": "#1F1F1F",
         "editor.gutter.background": "#1F1F1F",
         "editor.subheader.background": null,
-        "editor.active_line.background": null,
-        "editor.highlighted_line.background": null,
+        "editor.active_line.background": "#5AC1FE3D",
+        "editor.highlighted_line.background": "#5AC1FE3D",
         "editor.line_number": "#6E7681",
         "editor.active_line_number": "#CCCCCC",
         "editor.invisible": null,
@@ -138,7 +138,48 @@
         "warning": "#D7BA7D",
         "warning.background": null,
         "warning.border": "#1E1E1E",
-        "players": [],
+        "players": [
+          {
+            "cursor": "#5AC1FEFF",
+            "background": "#5AC1FEFF",
+            "selection": "#5AC1FE3D"
+          },
+          {
+            "cursor": "#39BAE5FF",
+            "background": "#39BAE5FF",
+            "selection": "#39BASE53D"
+          },
+          {
+            "cursor": "#FE8F40FF",
+            "background": "#FE8F40FF",
+            "selection": "#FE8f403D"
+          },
+          {
+            "cursor": "#D2A6FEFF",
+            "background": "#D2A6FEFF",
+            "selection": "#D2A6FE3D"
+          },
+          {
+            "cursor": "#95E5CBFF",
+            "background": "#95E5CBFF",
+            "selection": "#95E5CB3D"
+          },
+          {
+            "cursor": "#EF7177FF",
+            "background": "#EF7177FF",
+            "selection": "#EF71773D"
+          },
+          {
+            "cursor": "#FEB454FF",
+            "background": "#FEB454FF",
+            "selection": "#FEB4543D"
+          },
+          {
+            "cursor": "#AAD84CFF",
+            "background": "#AAD84CFF",
+            "selection": "#AAD84C3D"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#9CDCFE",
