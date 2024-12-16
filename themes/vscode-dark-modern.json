@@ -26,7 +26,7 @@
         "ghost_element.background": null,
         "ghost_element.hover": "#2A2D2E",
         "ghost_element.active": "#37373d",
-        "ghost_element.selected": "#ffffff07",
+        "ghost_element.selected": "#181818",
         "ghost_element.disabled": null,
         "text": "#CCCCCC",
         "text.muted": "#9D9D9D",
@@ -41,10 +41,10 @@
         "status_bar.background": "#181818",
         "title_bar.background": "#181818",
         "title_bar.inactive_background": "#1a1a1a",
-        "toolbar.background": "#1F1F1F",
+        "toolbar.background": "#181818",
         "tab_bar.background": "#181818",
         "tab.inactive_background": "#181818",
-        "tab.active_background": "#1F1F1F",
+        "tab.active_background": "#2F2F2F",
         "search.match_background": "#623315",
         "panel.background": "#181818",
         "panel.focused_border": null,
@@ -56,8 +56,8 @@
         "scrollbar.track.background": "#1F1F1F",
         "scrollbar.track.border": "#010409",
         "editor.foreground": "#CCCCCC",
-        "editor.background": "#1F1F1F",
-        "editor.gutter.background": "#1F1F1F",
+        "editor.background": "#181818",
+        "editor.gutter.background": "#181818",
         "editor.subheader.background": null,
         "editor.active_line.background": "#212121",
         "editor.highlighted_line.background": "#212E3A",
@@ -193,7 +193,7 @@
           "boolean": {
             "color": "#569CD6",
             "background_color": null,
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "comment": {
@@ -217,7 +217,7 @@
           "constructor": {
             "color": "#569CD6",
             "background_color": null,
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "embedded": {
@@ -243,6 +243,18 @@
             "background_color": null,
             "font_style": null,
             "font_weight": null
+          },
+          "keyword.import": {
+            "color": "#569CD6",
+             "font_style": "italic"
+          },
+          "keyword.export": {
+            "color": "#569CD6",
+            "font_style": "italic"
+          },
+          "keyword.from": {
+            "color": "#569CD6",
+            "font_style": "italic"
           },
           "number": {
             "color": "#B5CEA8",
