@@ -244,18 +244,6 @@
             "font_style": null,
             "font_weight": null
           },
-          "keyword.import": {
-            "color": "#569CD6",
-             "font_style": "italic"
-          },
-          "keyword.export": {
-            "color": "#569CD6",
-            "font_style": "italic"
-          },
-          "keyword.from": {
-            "color": "#569CD6",
-            "font_style": "italic"
-          },
           "number": {
             "color": "#B5CEA8",
             "background_color": null,
